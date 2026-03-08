@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Stake",
+    "slug": "stake",
+    "affiliate_slug": "stake",
+    "url": "https://stake.com",
+    "bonus": "200% jusqu'à 1000$ + Rakeback Instantané",
+    "rating": 4.9,
+    "pros": [
+      "Dépôts et retraits crypto instantanés",
+      "Meilleur programme de fidélité VIP",
+      "Jeux exclusifs (Stake Originals)",
+      "Pas de limites de retrait"
+    ],
+    "cons": [
+      "Pas de support par téléphone",
+      "Interface parfois complexe pour les débutants"
+    ],
+    "category": "Crypto Casino"
+  },
+  {
+    "name": "MyStake",
+    "slug": "mystake",
+    "affiliate_slug": "mystake",
+    "url": "https://mystake.com",
+    "bonus": "100% jusqu'à 1000€ + 10% Cashback Crypto",
+    "rating": 4.8,
+    "pros": [
+      "Mini-jeux exclusifs (Le Poulet, Dino)",
+      "Large choix de méthodes de paiement",
+      "Section paris sportifs complète",
+      "Bonus généreux sur le premier dépôt"
+    ],
+    "cons": [
+      "Conditions de mise (Wager) présentes",
+      "Vérification d'identité (KYC) obligatoire"
+    ],
+    "category": "Polyvalent"
+  },
+  {
+    "name": "Cresus Casino",
+    "slug": "cresus-casino",
+    "affiliate_slug": "cresus",
+    "url": "https://cresuscasino.com",
+    "bonus": "150% jusqu'à 300€ + 500 Free Spins",
+    "rating": 4.7,
+    "pros": [
+      "Bonus sans aucune condition de mise",
+      "Service client francophone d'élite",
+      "Retraits validés en moins de 24h",
+      "Fiabilité exemplaire depuis des années"
+    ],
+    "cons": [
+      "Moins de choix en crypto-monnaies",
+      "Catalogue de jeux légèrement plus réduit"
+    ],
+    "category": "Fiabilité"
+  },
+  {
+    "name": "BC.Game",
+    "slug": "bc-game",
+    "affiliate_slug": "bcgame",
+    "url": "https://bc.game",
+    "bonus": "Jusqu'à 360% de bonus sur vos 4 dépôts",
+    "rating": 4.7,
+    "pros": [
+      "Plus de 50 crypto-monnaies acceptées",
+      "Roue de la fortune gratuite chaque jour",
+      "Application mobile très performante",
+      "Communauté et chat en direct très actifs"
+    ],
+    "cons": [
+      "Système de bonus complexe (BCD)",
+      "Traduction française parfois incomplète"
+    ],
+    "category": "Crypto Casino"
+  },
+  {
+    "name": "Lucky8",
+    "slug": "lucky8",
+    "affiliate_slug": "lucky8",
+    "url": "https://lucky8.com",
+    "bonus": "200€ de Bonus + 500 Free Spins offerts",
+    "rating": 4.6,
+    "pros": [
+      "Interface moderne et intuitive",
+      "Promotions régulières (Happy Hour)",
+      "Dépôts par carte bancaire facilités",
+      "Excellent catalogue de machines à sous"
+    ],
+    "cons": [
+      "Limites de retrait hebdomadaires",
+      "Pas de mode démo sans inscription"
+    ],
+    "category": "Expérience Mobile"
+  },
+  {
+    "name": "Wild Sultan",
+    "slug": "wild-sultan",
+    "affiliate_slug": "wildsultan",
+    "url": "https://wildsultan.com",
+    "bonus": "100% jusqu'à 500€ + 20 Free Spins",
+    "rating": 4.5,
+    "pros": [
+      "Taux de redistribution (RTP) en temps réel",
+      "Jackpots exclusifs sur les jeux",
+      "Retraits ultra-rapides",
+      "Support client très réactif"
+    ],
+    "cons": [
+      "Design un peu daté",
+      "Support non disponible 24h/24"
+    ],
+    "category": "Slot Experts"
+  },
+  {
+    "name": "Roobet",
+    "slug": "roobet",
+    "affiliate_slug": "roobet",
+    "url": "https://roobet.com",
+    "bonus": "70 Free Spins (valeur 80$) après mise",
+    "rating": 4.4,
+    "pros": [
+      "Casino préféré des streamers",
+      "Jeux 'House Games' uniques",
+      "Événements et tournois fréquents",
+      "Dépôts crypto et cartes cadeaux"
+    ],
+    "cons": [
+      "Bonus de bienvenue moins classique",
+      "Interface uniquement en anglais"
+    ],
+    "category": "Communauté"
+  }
+]
